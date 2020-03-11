@@ -1,0 +1,2 @@
+python ITGPS-31005_update_invoice_status_gps.py --inv_nums '302-Tg 511-15-01-00017, 007-Tg 511-15-01-00025, 012-Tg 511-15-01-00021' --status 'declined' --user "michael.pflueger@greenphire.com" --ticket "ITGPS-31005"
+

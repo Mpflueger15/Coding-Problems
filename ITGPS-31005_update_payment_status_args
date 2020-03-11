@@ -1,0 +1,1 @@
+python ITGPS-30974_update_payment_currency_gps.py --gpid "80734F8F52" --currency "USD" --user "michael.pflueger@greenphire.com" --ticket "ITGPS-30974"
